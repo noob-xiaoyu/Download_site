@@ -1,0 +1,1 @@
+https://download.oracle.com/java/25/latest/jdk-17_windows-x64_bin.exe
